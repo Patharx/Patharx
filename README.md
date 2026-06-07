@@ -41,7 +41,7 @@ I build tools, automate things, and break stuff (ethically).
 
 ## 🌐 Connect
 
-- 💼 [LinkedIn](#) ← add your LinkedIn URL here
+- 💼 [LinkedIn](#)
 - 📧 Drop me a message via GitHub
 
 ---
