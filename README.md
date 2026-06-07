@@ -39,14 +39,6 @@ I build tools, automate things, and break stuff (ethically).
 
 ---
 
-## 📈 GitHub Stats
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patharx&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patharx&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🌐 Connect
 
 - 💼 [LinkedIn](#) ← add your LinkedIn URL here
