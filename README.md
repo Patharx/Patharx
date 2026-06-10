@@ -9,7 +9,7 @@ I build security tools, automate things, and break stuff (ethically).
 
 - 🎯 Goal: Breaking into cybersecurity
 - 🐍 Currently learning: Python, networking, ethical hacking
-- 🤖 Latest project: AI-powered Discord bot using the Anthropic Claude API
+- 🤖 Latest project: AI-powered Discord bots using the Anthropic Claude API
 - 🌱 Working through: TryHackMe learning paths
 - 🏰 Fun fact: All my tools have a Lord of the Rings theme
 
@@ -27,9 +27,21 @@ I build security tools, automate things, and break stuff (ethically).
 
 ---
 
+## 🤖 Middle-earth Bot Collection
+
+Two AI-powered Discord bots built from scratch and deployed 24/7 on Railway —
+each with their own personality, purpose, and command set.
+
+| Bot | Character | Purpose |
+|---|---|---|
+| [🧙 GandalfBot](https://github.com/Patharx/gandalfbot) | Gandalf the Grey/White | Wisdom, riddles, lore, quests, fellowship |
+| [⚔️ AragornBot](https://github.com/Patharx/aragornbot) | Aragorn/Strider | Leadership, battles, heritage, rally speeches |
+
+---
+
 ## 🔐 Cybersecurity Toolkit
 
-A growing collection of Python security tools — built from scratch as part of 
+A growing collection of Python security tools — built from scratch as part of
 my cybersecurity learning journey. Each tool teaches a core security concept.
 
 | Project | Description | Concepts |
@@ -39,21 +51,6 @@ my cybersecurity learning journey. Each tool teaches a core security concept.
 | [🔐 Password Checker](https://github.com/Patharx/passwordchecker) | Analyze password strength | Security logic, regex, entropy |
 | [💥 Hash Cracker](https://github.com/Patharx/hashcracker) | Crack MD5/SHA hashes via dictionary attack | Hashing, dictionary attacks |
 | [🔑 Caesar Cipher](https://github.com/Patharx/caesarcipher) | Encrypt and decrypt messages | Cryptography, brute force |
-
----
-
-## 🤖 Featured Project
-
-### 🧙 GandalfBot
-> AI-powered Lord of the Rings Discord bot built with Python and the Anthropic Claude API
-
-- Built and deployed a fully functional Discord bot from scratch
-- Integrated Claude Haiku for in-character AI responses as Gandalf
-- Features include riddles, lore lookup, quests, fellowship assignments, and dual personalities
-- Deployed 24/7 on Railway with secure environment variable management
-- Connects to GitHub for automatic redeployment on every push
-
-[View Repository](https://github.com/Patharx/gandalfbot)
 
 ---
 
@@ -73,24 +70,15 @@ my cybersecurity learning journey. Each tool teaches a core security concept.
 - [ ] Keylogger (educational)
 - [ ] Network Packet Sniffer
 - [ ] CompTIA Security+ certification
+- [ ] More Fellowship bots — Legolas, Gimli, Sam
 
 ---
 
 ## 🌐 Connect
 
 - 💼 [LinkedIn](#) ← add your LinkedIn URL here
-- 🏆 [TryHackMe](https://tryhackme.com) ← add your profile URL here
+- 🏆 [TryHackMe](#) ← add your TryHackMe profile URL here
 
 ---
 
 *"Not all those who wander are lost."* 🧙
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
